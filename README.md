@@ -34,7 +34,7 @@ All files are managed in the `/Download/appName` directory.
 
 ## Screenshot  
 
-![App Screenshot](Screenshots/Screenshot.png)  
+<img src="Screenshots/Screenshot.png" alt="App Screenshot" width="600">
 
 ---
 
