@@ -15,13 +15,13 @@ All files are managed in the `/Download/appName` directory.
 ## Features  
 
 1. **Save Files**  
-   Demonstrates how to save files to the MediaStore in a scoped storage environment.  
+   Demonstrates how to save files to the MediaStore in a storage environment.  
 
 2. **Create Files**  
    Shows how to create new files directly in the `/Download/appName` directory.  
 
 3. **Read Files**  
-   Explains how to access and read files stored in the MediaStore.  
+   Explains how to access and read files stored in the `/Download/appName`.
 
 ---
 
